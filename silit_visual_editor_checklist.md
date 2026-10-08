@@ -516,9 +516,8 @@ Hasil export wajib mengikuti apa yang terlihat di canvas editor.
 
 ### Visual
 
-Periksa setiap PDF page: - \[ \] Image. - \[ \] Warna. - \[ \] Text. -
-\[ \] Posisi. - \[ \] Ukuran. - \[ \] Background. - \[ \] Border. - \[
-\] Shadow. - \[ \] Crop.
+Periksa setiap PDF page: - <span style="color:green">✅</span> Image. - <span style="color:green">✅</span> Warna. - <span style="color:green">✅</span> Text. -
+<span style="color:green">✅</span> Posisi. - <span style="color:green">✅</span> Ukuran. - <span style="color:green">✅</span> Background. - <span style="color:green">✅</span> Border. - <span style="color:green">✅</span> Shadow. - <span style="color:green">✅</span> Crop.
 
 ------------------------------------------------------------------------
 
