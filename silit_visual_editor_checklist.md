@@ -505,7 +505,7 @@ Hasil export wajib mengikuti apa yang terlihat di canvas editor.
 ### Current Page lainnya
 
 -   <span style="color:green">✅</span> Pilih Page 2.
--   [ ] Export.
+-   <span style="color:green">✅</span> Export.
 -   <span style="color:green">✅</span> Pastikan hasil hanya Page 2.
 
 ### All Pages
