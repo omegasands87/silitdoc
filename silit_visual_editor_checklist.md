@@ -90,12 +90,12 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Pekerjaan
 
--   [ ] Pertahankan ukuran A4: 210mm × 297mm.
--   [ ] Canvas tetap portrait.
--   [ ] Canvas memiliki background.
--   [ ] Overflow canvas terkendali.
--   [ ] Cover image kembali memiliki area 60% A4.
--   [ ] Area informasi cover tetap 40% A4.
+-   <span style="color:green">✅</span> Pertahankan ukuran A4: 210mm × 297mm.
+-   <span style="color:green">✅</span> Canvas tetap portrait.
+-   <span style="color:green">✅</span> Canvas memiliki background.
+-   <span style="color:green">✅</span> Overflow canvas terkendali.
+-   <span style="color:green">✅</span> Cover image kembali memiliki area 60% A4.
+-   <span style="color:green">✅</span> Area informasi cover tetap 40% A4.
 
 ### Hasil wajib
 
@@ -105,8 +105,8 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Lulus jika
 
--   [ ] Cover image tidak mengecil karena wrapper editor.
--   [ ] Canvas tidak blank.
+-   <span style="color:green">✅</span> Cover image tidak mengecil karena wrapper editor.
+-   <span style="color:green">✅</span> Canvas tidak blank.
 
 ------------------------------------------------------------------------
 
@@ -114,40 +114,40 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Element Cover
 
--   [ ] Foto Sampul
--   [ ] Kategori
--   [ ] Judul
--   [ ] Kutipan
--   [ ] Meta
+-   <span style="color:green">✅</span> Foto Sampul
+-   <span style="color:green">✅</span> Kategori
+-   <span style="color:green">✅</span> Judul
+-   <span style="color:green">✅</span> Kutipan
+-   <span style="color:green">✅</span> Meta
 
 ### Element Isi
 
--   [ ] Judul Cerita
--   [ ] Teks Cerita
--   [ ] Bahan
--   [ ] Alat
--   [ ] Nutrisi
--   [ ] Footer
+-   <span style="color:green">✅</span> Judul Cerita
+-   <span style="color:green">✅</span> Teks Cerita
+-   <span style="color:green">✅</span> Bahan
+-   <span style="color:green">✅</span> Alat
+-   <span style="color:green">✅</span> Nutrisi
+-   <span style="color:green">✅</span> Footer
 
 ### Element Cooking
 
--   [ ] Judul Memasak
--   [ ] Langkah
--   [ ] Pro Tip
--   [ ] Footer
+-   <span style="color:green">✅</span> Judul Memasak
+-   <span style="color:green">✅</span> Langkah
+-   <span style="color:green">✅</span> Pro Tip
+-   <span style="color:green">✅</span> Footer
 
 ### Interaction
 
--   [ ] Klik element memilih element.
--   [ ] Bounding box muncul.
--   [ ] Panel kanan menampilkan element yang dipilih.
--   [ ] Klik area kosong menghapus selection.
--   [ ] Klik area kosong tidak menyebabkan blank.
+-   <span style="color:green">✅</span> Klik element memilih element.
+-   <span style="color:green">✅</span> Bounding box muncul.
+-   <span style="color:green">✅</span> Panel kanan menampilkan element yang dipilih.
+-   <span style="color:green">✅</span> Klik area kosong menghapus selection.
+-   <span style="color:green">✅</span> Klik area kosong tidak menyebabkan blank.
 
 ### Lulus jika
 
--   [ ] Semua element pada daftar dapat dipilih.
--   [ ] Selection tidak merusak layout.
+-   <span style="color:green">✅</span> Semua element pada daftar dapat dipilih.
+-   <span style="color:green">✅</span> Selection tidak merusak layout.
 
 ------------------------------------------------------------------------
 
@@ -155,16 +155,16 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Pekerjaan
 
--   [ ] Element dapat di-drag langsung di canvas.
--   [ ] Posisi mengikuti mouse.
--   [ ] Posisi X/Y diperbarui.
--   [ ] Perubahan X/Y dari panel mengubah posisi element.
--   [ ] Canvas tetap stabil setelah drag.
+-   <span style="color:green">✅</span> Element dapat di-drag langsung di canvas.
+-   <span style="color:green">✅</span> Posisi mengikuti mouse.
+-   <span style="color:green">✅</span> Posisi X/Y diperbarui.
+-   <span style="color:green">✅</span> Perubahan X/Y dari panel mengubah posisi element.
+-   <span style="color:green">✅</span> Canvas tetap stabil setelah drag.
 
 ### Lulus jika
 
--   [ ] Posisi canvas dan panel X/Y konsisten.
--   [ ] Element lain tidak ikut berpindah.
+-   <span style="color:green">✅</span> Posisi canvas dan panel X/Y konsisten.
+-   <span style="color:green">✅</span> Element lain tidak ikut berpindah.
 
 ------------------------------------------------------------------------
 
@@ -172,23 +172,23 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Pekerjaan
 
--   [ ] Tambahkan handle kiri.
--   [ ] Tambahkan handle kanan.
--   [ ] Tambahkan handle atas.
--   [ ] Tambahkan handle bawah.
--   [ ] Tambahkan 4 corner handle.
--   [ ] Resize memperbarui width/height.
--   [ ] Resize tidak merusak element lain.
--   [ ] Resize tidak menyebabkan blank.
+-   <span style="color:green">✅</span> Tambahkan handle kiri.
+-   <span style="color:green">✅</span> Tambahkan handle kanan.
+-   <span style="color:green">✅</span> Tambahkan handle atas.
+-   <span style="color:green">✅</span> Tambahkan handle bawah.
+-   <span style="color:green">✅</span> Tambahkan 4 corner handle.
+-   <span style="color:green">✅</span> Resize memperbarui width/height.
+-   <span style="color:green">✅</span> Resize tidak merusak element lain.
+-   <span style="color:green">✅</span> Resize tidak menyebabkan blank.
 
 ### Image
 
--   [ ] Frame image tetap valid.
--   [ ] Image tetap berada di dalam frame.
+-   <span style="color:green">✅</span> Frame image tetap valid.
+-   <span style="color:green">✅</span> Image tetap berada di dalam frame.
 
 ### Lulus jika
 
--   [ ] Resize dari canvas dan ukuran pada model konsisten.
+-   <span style="color:green">✅</span> Resize dari canvas dan ukuran pada model konsisten.
 
 ------------------------------------------------------------------------
 
@@ -196,20 +196,20 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Pekerjaan
 
--   [ ] Replace image.
--   [ ] Crop image.
--   [ ] Position image di dalam frame.
--   [ ] Zoom image di dalam frame.
--   [ ] Fit: Cover.
--   [ ] Fit: Contain.
+-   <span style="color:green">✅</span> Replace image.
+-   <span style="color:green">✅</span> Crop image.
+-   <span style="color:green">✅</span> Position image di dalam frame.
+-   <span style="color:green">✅</span> Zoom image di dalam frame.
+-   <span style="color:green">✅</span> Fit: Cover.
+-   <span style="color:green">✅</span> Fit: Contain.
 
 ### Lulus jika
 
--   [ ] Frame tidak berubah saat image digeser.
--   [ ] Crop terlihat benar di canvas.
--   [ ] Zoom terlihat benar di canvas.
--   [ ] Position terlihat benar di canvas.
--   [ ] Hasil export mengikuti crop, zoom, dan position canvas.
+-   <span style="color:green">✅</span> Frame tidak berubah saat image digeser.
+-   <span style="color:green">✅</span> Crop terlihat benar di canvas.
+-   <span style="color:green">✅</span> Zoom terlihat benar di canvas.
+-   <span style="color:green">✅</span> Position terlihat benar di canvas.
+-   <span style="color:green">✅</span> Hasil export mengikuti crop, zoom, dan position canvas.
 
 ------------------------------------------------------------------------
 
@@ -217,17 +217,17 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Pekerjaan
 
--   [ ] Bring Forward.
--   [ ] Send Backward.
--   [ ] Bring to Front.
--   [ ] Send to Back.
--   [ ] Tampilkan layer element halaman aktif.
--   [ ] Urutan layer panel sama dengan hasil visual canvas.
+-   <span style="color:green">✅</span> Bring Forward.
+-   <span style="color:green">✅</span> Send Backward.
+-   <span style="color:green">✅</span> Bring to Front.
+-   <span style="color:green">✅</span> Send to Back.
+-   <span style="color:green">✅</span> Tampilkan layer element halaman aktif.
+-   <span style="color:green">✅</span> Urutan layer panel sama dengan hasil visual canvas.
 
 ### Lulus jika
 
--   [ ] Perubahan layer langsung terlihat di canvas.
--   [ ] Urutan layer tidak berubah saat export.
+-   <span style="color:green">✅</span> Perubahan layer langsung terlihat di canvas.
+-   <span style="color:green">✅</span> Urutan layer tidak berubah saat export.
 
 ------------------------------------------------------------------------
 
@@ -235,19 +235,19 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Pekerjaan
 
--   [ ] Align Left.
--   [ ] Align Center.
--   [ ] Align Right.
--   [ ] Align Top.
--   [ ] Align Middle.
--   [ ] Align Bottom.
--   [ ] Center Horizontally.
--   [ ] Center Vertically.
+-   <span style="color:green">✅</span> Align Left.
+-   <span style="color:green">✅</span> Align Center.
+-   <span style="color:green">✅</span> Align Right.
+-   <span style="color:green">✅</span> Align Top.
+-   <span style="color:green">✅</span> Align Middle.
+-   <span style="color:green">✅</span> Align Bottom.
+-   <span style="color:green">✅</span> Center Horizontally.
+-   <span style="color:green">✅</span> Center Vertically.
 
 ### Lulus jika
 
--   [ ] Element berpindah sesuai perintah alignment.
--   [ ] Posisi hasil alignment konsisten dengan canvas.
+-   <span style="color:green">✅</span> Element berpindah sesuai perintah alignment.
+-   <span style="color:green">✅</span> Posisi hasil alignment konsisten dengan canvas.
 
 ------------------------------------------------------------------------
 
@@ -255,10 +255,10 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Pekerjaan
 
--   [ ] Center guide.
--   [ ] Edge alignment guide.
--   [ ] Snap ke guide.
--   [ ] Snap ke element lain.
+-   <span style="color:green">✅</span> Center guide.
+-   <span style="color:green">✅</span> Edge alignment guide.
+-   <span style="color:green">✅</span> Snap ke guide.
+-   <span style="color:green">✅</span> Snap ke element lain.
 
 ### Hasil wajib
 
@@ -267,8 +267,8 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Lulus jika
 
--   [ ] Snap tidak memindahkan element secara tidak terduga.
--   [ ] Guide tidak ikut muncul pada hasil export.
+-   <span style="color:green">✅</span> Snap tidak memindahkan element secara tidak terduga.
+-   <span style="color:green">✅</span> Guide tidak ikut muncul pada hasil export.
 
 ------------------------------------------------------------------------
 
@@ -276,15 +276,15 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Pekerjaan
 
--   [ ] Pilih element pertama.
--   [ ] Tambahkan element menggunakan modifier key.
--   [ ] Semua element yang dipilih terlihat.
--   [ ] Alignment dapat digunakan untuk selection.
+-   <span style="color:green">✅</span> Pilih element pertama.
+-   <span style="color:green">✅</span> Tambahkan element menggunakan modifier key.
+-   <span style="color:green">✅</span> Semua element yang dipilih terlihat.
+-   <span style="color:green">✅</span> Alignment dapat digunakan untuk selection.
 
 ### Lulus jika
 
--   [ ] Multi-select tidak merusak layout.
--   [ ] Element yang tidak dipilih tidak ikut berubah.
+-   <span style="color:green">✅</span> Multi-select tidak merusak layout.
+-   <span style="color:green">✅</span> Element yang tidak dipilih tidak ikut berubah.
 
 ------------------------------------------------------------------------
 
@@ -292,26 +292,26 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Shortcut wajib
 
--   [ ] Delete.
--   [ ] Arrow Up.
--   [ ] Arrow Down.
--   [ ] Arrow Left.
--   [ ] Arrow Right.
--   [ ] Shift + Arrow untuk perpindahan lebih besar.
--   [ ] Ctrl/Cmd + Z.
--   [ ] Ctrl/Cmd + Shift + Z.
--   [ ] Ctrl/Cmd + C.
--   [ ] Ctrl/Cmd + V.
+-   <span style="color:green">✅</span> Delete.
+-   <span style="color:green">✅</span> Arrow Up.
+-   <span style="color:green">✅</span> Arrow Down.
+-   <span style="color:green">✅</span> Arrow Left.
+-   <span style="color:green">✅</span> Arrow Right.
+-   <span style="color:green">✅</span> Shift + Arrow untuk perpindahan lebih besar.
+-   <span style="color:green">✅</span> Ctrl/Cmd + Z.
+-   <span style="color:green">✅</span> Ctrl/Cmd + Shift + Z.
+-   <span style="color:green">✅</span> Ctrl/Cmd + C.
+-   <span style="color:green">✅</span> Ctrl/Cmd + V.
 
 ### Aturan
 
--   [ ] Shortcut tidak bekerja saat user sedang mengetik di input.
--   [ ] Shortcut tidak mengganggu editor data resep.
+-   <span style="color:green">✅</span> Shortcut tidak bekerja saat user sedang mengetik di input.
+-   <span style="color:green">✅</span> Shortcut tidak mengganggu editor data resep.
 
 ### Lulus jika
 
--   [ ] Semua shortcut bekerja sesuai fungsi.
--   [ ] Input/textarea tetap dapat digunakan normal.
+-   <span style="color:green">✅</span> Semua shortcut bekerja sesuai fungsi.
+-   <span style="color:green">✅</span> Input/textarea tetap dapat digunakan normal.
 
 ------------------------------------------------------------------------
 
@@ -325,22 +325,22 @@ Crop. - \[ \] Layer. - \[ \] Alignment. - \[ \] Page operation.
 
 ### Tidak masuk history
 
--   [ ] Klik selection.
--   [ ] Hover.
--   [ ] Membuka panel.
--   [ ] UI sementara.
+-   <span style="color:green">✅</span> Klik selection.
+-   <span style="color:green">✅</span> Hover.
+-   <span style="color:green">✅</span> Membuka panel.
+-   <span style="color:green">✅</span> UI sementara.
 
 ### History grouping
 
--   [ ] Satu drag = satu action.
--   [ ] Satu resize = satu action.
--   [ ] Tidak membuat ratusan history entry dari satu gesture.
+-   <span style="color:green">✅</span> Satu drag = satu action.
+-   <span style="color:green">✅</span> Satu resize = satu action.
+-   <span style="color:green">✅</span> Tidak membuat ratusan history entry dari satu gesture.
 
 ### Lulus jika
 
--   [ ] Undo mengembalikan kondisi sebelumnya.
--   [ ] Redo mengembalikan kondisi setelah undo.
--   [ ] Selection/hover tidak membuat history.
+-   <span style="color:green">✅</span> Undo mengembalikan kondisi sebelumnya.
+-   <span style="color:green">✅</span> Redo mengembalikan kondisi setelah undo.
+-   <span style="color:green">✅</span> Selection/hover tidak membuat history.
 
 ------------------------------------------------------------------------
 
@@ -348,20 +348,20 @@ Crop. - \[ \] Layer. - \[ \] Alignment. - \[ \] Page operation.
 
 ### Pekerjaan
 
--   [ ] 50%.
--   [ ] 75%.
--   [ ] 100%.
--   [ ] Fit.
+-   <span style="color:green">✅</span> 50%.
+-   <span style="color:green">✅</span> 75%.
+-   <span style="color:green">✅</span> 100%.
+-   <span style="color:green">✅</span> Fit.
 
 ### Aturan
 
--   [ ] Zoom hanya mengubah tampilan editor.
--   [ ] Zoom tidak mengubah ukuran dokumen A4.
+-   <span style="color:green">✅</span> Zoom hanya mengubah tampilan editor.
+-   <span style="color:green">✅</span> Zoom tidak mengubah ukuran dokumen A4.
 
 ### Lulus jika
 
--   [ ] Ukuran A4 tetap 210mm × 297mm.
--   [ ] Export tidak terpengaruh zoom.
+-   <span style="color:green">✅</span> Ukuran A4 tetap 210mm × 297mm.
+-   <span style="color:green">✅</span> Export tidak terpengaruh zoom.
 
 ------------------------------------------------------------------------
 
@@ -369,17 +369,17 @@ Crop. - \[ \] Layer. - \[ \] Alignment. - \[ \] Page operation.
 
 ### Pekerjaan
 
--   [ ] A4.
--   [ ] Portrait.
--   [ ] Background halaman.
+-   <span style="color:green">✅</span> A4.
+-   <span style="color:green">✅</span> Portrait.
+-   <span style="color:green">✅</span> Background halaman.
 
 ### Aturan
 
--   [ ] Tidak menambahkan ukuran kertas lain pada tahap ini.
+-   <span style="color:green">✅</span> Tidak menambahkan ukuran kertas lain pada tahap ini.
 
 ### Lulus jika
 
--   [ ] Page settings konsisten dengan canvas dan export.
+-   <span style="color:green">✅</span> Page settings konsisten dengan canvas dan export.
 
 ------------------------------------------------------------------------
 
@@ -397,8 +397,8 @@ Buat fungsi:
 
 Jika halaman aktif adalah Page 1:
 
--   [ ] Output hanya Page 1.
--   [ ] Output = 1 halaman A4.
+-   <span style="color:green">✅</span> Output hanya Page 1.
+-   <span style="color:green">✅</span> Output = 1 halaman A4.
 
 Tidak boleh ikut: - \[ \] Sidebar kiri. - \[ \] Editor kanan. - \[ \]
 Toolbar. - \[ \] Canvas background. - \[ \] Selection outline. - \[ \]
@@ -406,8 +406,8 @@ Guide. - \[ \] Grid. - \[ \] UI editor.
 
 ### Lulus jika
 
--   [ ] Current Page menghasilkan tepat 1 halaman A4.
--   [ ] Halaman yang diekspor adalah halaman aktif.
+-   <span style="color:green">✅</span> Current Page menghasilkan tepat 1 halaman A4.
+-   <span style="color:green">✅</span> Halaman yang diekspor adalah halaman aktif.
 
 ------------------------------------------------------------------------
 
@@ -427,15 +427,15 @@ Jika editor memiliki:
 
 maka output harus:
 
--   [ ] PDF Page 1 = editor Page 1.
--   [ ] PDF Page 2 = editor Page 2.
--   [ ] PDF Page 3 = editor Page 3.
+-   <span style="color:green">✅</span> PDF Page 1 = editor Page 1.
+-   <span style="color:green">✅</span> PDF Page 2 = editor Page 2.
+-   <span style="color:green">✅</span> PDF Page 3 = editor Page 3.
 
 ### Lulus jika
 
--   [ ] Jumlah halaman PDF = jumlah halaman editor.
--   [ ] Urutan PDF = urutan sidebar.
--   [ ] Tidak ada halaman kosong tambahan.
+-   <span style="color:green">✅</span> Jumlah halaman PDF = jumlah halaman editor.
+-   <span style="color:green">✅</span> Urutan PDF = urutan sidebar.
+-   <span style="color:green">✅</span> Tidak ada halaman kosong tambahan.
 
 ------------------------------------------------------------------------
 
@@ -447,43 +447,43 @@ Hasil export wajib mengikuti apa yang terlihat di canvas editor.
 
 ### Visual
 
--   [ ] Warna.
--   [ ] Background.
--   [ ] Gambar.
--   [ ] Crop.
--   [ ] Posisi.
--   [ ] Ukuran.
--   [ ] Bentuk.
--   [ ] Border.
--   [ ] Radius.
--   [ ] Shadow.
--   [ ] Opacity.
--   [ ] Rotation.
+-   <span style="color:green">✅</span> Warna.
+-   <span style="color:green">✅</span> Background.
+-   <span style="color:green">✅</span> Gambar.
+-   <span style="color:green">✅</span> Crop.
+-   <span style="color:green">✅</span> Posisi.
+-   <span style="color:green">✅</span> Ukuran.
+-   <span style="color:green">✅</span> Bentuk.
+-   <span style="color:green">✅</span> Border.
+-   <span style="color:green">✅</span> Radius.
+-   <span style="color:green">✅</span> Shadow.
+-   <span style="color:green">✅</span> Opacity.
+-   <span style="color:green">✅</span> Rotation.
 
 ### Typography
 
--   [ ] Font.
--   [ ] Ukuran.
--   [ ] Weight.
--   [ ] Italic.
--   [ ] Line height.
--   [ ] Letter spacing.
--   [ ] Alignment.
--   [ ] Uppercase.
+-   <span style="color:green">✅</span> Font.
+-   <span style="color:green">✅</span> Ukuran.
+-   <span style="color:green">✅</span> Weight.
+-   <span style="color:green">✅</span> Italic.
+-   <span style="color:green">✅</span> Line height.
+-   <span style="color:green">✅</span> Letter spacing.
+-   <span style="color:green">✅</span> Alignment.
+-   <span style="color:green">✅</span> Uppercase.
 
 ### Layout
 
--   [ ] X.
--   [ ] Y.
--   [ ] Width.
--   [ ] Height.
--   [ ] Layer order.
+-   <span style="color:green">✅</span> X.
+-   <span style="color:green">✅</span> Y.
+-   <span style="color:green">✅</span> Width.
+-   <span style="color:green">✅</span> Height.
+-   <span style="color:green">✅</span> Layer order.
 
 ### Dokumen
 
--   [ ] A4.
--   [ ] Portrait.
--   [ ] Page order.
+-   <span style="color:green">✅</span> A4.
+-   <span style="color:green">✅</span> Portrait.
+-   <span style="color:green">✅</span> Page order.
 
 ### Acceptance criteria
 
