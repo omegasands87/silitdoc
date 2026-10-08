@@ -71,7 +71,7 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
     -   ✅ `rotation`
     -   ✅ `zIndex`
     -   ✅ `style`
--   [ ] Data image memiliki data image yang diperlukan.
+-   ✅ Data image memiliki data image yang diperlukan.
 
 ### Hasil wajib
 
@@ -81,8 +81,8 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Lulus jika
 
--   [ ] Memilih element tidak mengubah layout.
--   [ ] Struktur visual dapat dirender dari model element.
+-   ✅ Memilih element tidak mengubah layout.
+-   ✅ Struktur visual dapat dirender dari model element.
 
 ------------------------------------------------------------------------
 
