@@ -57,20 +57,20 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Pekerjaan
 
--   <span style="color:green">✔</span> Pisahkan model halaman dan elemen.
--   <span style="color:green">✔</span> Page tetap memiliki `id`, `type`, dan `data`.
--   <span style="color:green">✔</span> Tambahkan model `elements[]` untuk elemen visual.
--   <span style="color:green">✔</span> Setiap elemen memiliki minimal:
-    -   <span style="color:green">✔</span> `id`
-    -   <span style="color:green">✔</span> `type`
-    -   <span style="color:green">✔</span> `content`
-    -   <span style="color:green">✔</span> `x`
-    -   <span style="color:green">✔</span> `y`
-    -   <span style="color:green">✔</span> `width`
-    -   <span style="color:green">✔</span> `height`
-    -   <span style="color:green">✔</span> `rotation`
-    -   <span style="color:green">✔</span> `zIndex`
-    -   <span style="color:green">✔</span> `style`
+-   ✅ Pisahkan model halaman dan elemen.
+-   ✅ Page tetap memiliki `id`, `type`, dan `data`.
+-   ✅ Tambahkan model `elements[]` untuk elemen visual.
+-   ✅ Setiap elemen memiliki minimal:
+    -   ✅ `id`
+    -   ✅ `type`
+    -   ✅ `content`
+    -   ✅ `x`
+    -   ✅ `y`
+    -   ✅ `width`
+    -   ✅ `height`
+    -   ✅ `rotation`
+    -   ✅ `zIndex`
+    -   ✅ `style`
 -   [ ] Data image memiliki data image yang diperlukan.
 
 ### Hasil wajib
