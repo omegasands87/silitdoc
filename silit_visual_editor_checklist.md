@@ -510,9 +510,9 @@ Hasil export wajib mengikuti apa yang terlihat di canvas editor.
 
 ### All Pages
 
--   [ ] Export semua.
--   [ ] Bandingkan jumlah halaman.
--   [ ] Bandingkan urutan halaman.
+-   <span style="color:green">✅</span> Export semua.
+-   <span style="color:green">✅</span> Bandingkan jumlah halaman.
+-   <span style="color:green">✅</span> Bandingkan urutan halaman.
 
 ### Visual
 
