@@ -497,16 +497,16 @@ Hasil export wajib mengikuti apa yang terlihat di canvas editor.
 
 ### Current Page
 
--   [ ] Pilih Page 1.
--   [ ] Export.
--   [ ] Pastikan hasil = 1 PDF page.
--   [ ] Pastikan hanya Page 1.
+-   <span style="color:green">✅</span> Pilih Page 1.
+-   <span style="color:green">✅</span> Export.
+-   <span style="color:green">✅</span> Pastikan hasil = 1 PDF page.
+-   <span style="color:green">✅</span> Pastikan hanya Page 1.
 
 ### Current Page lainnya
 
--   [ ] Pilih Page 2.
+-   <span style="color:green">✅</span> Pilih Page 2.
 -   [ ] Export.
--   [ ] Pastikan hasil hanya Page 2.
+-   <span style="color:green">✅</span> Pastikan hasil hanya Page 2.
 
 ### All Pages
 
