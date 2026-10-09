@@ -13,23 +13,17 @@ Dokumen ini adalah checklist kerja yang menjadi batas pekerjaan.
 
 ### 1.1 Scope terkunci
 
-Pekerjaan hanya boleh mengikuti urutan pada dokumen ini.
+Pekerjaan mengikuti urutan dokumen ini dan instruksi eksplisit user untuk pekerjaan aktif. Instruksi eksplisit user menentukan kebutuhan yang harus dikerjakan; checklist harus disinkronkan jika belum mencakup kebutuhan tersebut.
 
-Tidak boleh: - menambah fitur di luar checklist; - mengubah fitur yang
-tidak termasuk pekerjaan; - mengubah desain atau perilaku yang tidak
-diperlukan oleh checklist; - menambahkan backend, database, storage,
-atau layanan lain; - mengembangkan pekerjaan ke arah lain tanpa
-persetujuan.
+Tidak boleh: - menambah fitur yang tidak diminta user; - mengubah fitur yang tidak termasuk pekerjaan aktif; - mengubah desain atau perilaku yang tidak diperlukan oleh permintaan user; - menambahkan backend, database, storage, atau layanan lain tanpa diminta; - mengembangkan pekerjaan ke arah lain tanpa instruksi user.
 
 ### 1.2 Jika ditemukan kebutuhan di luar checklist
 
-Pekerjaan harus berhenti.
+Jika kebutuhan belum tercakup checklist, periksa terlebih dahulu apakah user sudah memerintahkannya secara eksplisit.
 
-Sebelum mengubahnya harus dijelaskan: 1. masalahnya; 2. alasan perubahan
-diperlukan; 3. bagian checklist yang terdampak; 4. perubahan yang akan
-dilakukan.
+Jika sudah diperintahkan secara eksplisit, instruksi itu adalah persetujuan untuk mengerjakannya. Sinkronkan bagian checklist yang terdampak, lalu lanjutkan tanpa meminta approval ulang.
 
-Lanjut hanya setelah mendapat persetujuan.
+Berhenti dan minta persetujuan hanya jika perubahan benar-benar di luar instruksi eksplisit user dan tidak diperlukan untuk menyelesaikan permintaan aktif.
 
 ### 1.3 Bagian yang wajib dipertahankan
 
@@ -47,7 +41,7 @@ Lanjut hanya setelah mendapat persetujuan.
 -   Upload gambar.
 -   Tampilan dasar desain resep.
 
-Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
+Perubahan hanya dilakukan jika diperlukan oleh checklist yang telah disinkronkan dengan instruksi eksplisit user.
 
 ------------------------------------------------------------------------
 
@@ -132,8 +126,14 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 ### Element Cooking
 
 -   <span style="color:green">✅</span> Judul Memasak
--   <span style="color:green">✅</span> Langkah
--   <span style="color:green">✅</span> Pro Tip
+-   <span style="color:green">✅</span> Grup Langkah
+-   [ ] Setiap judul langkah dapat dipilih sebagai elemen individual.
+-   [ ] Setiap deskripsi langkah dapat dipilih sebagai elemen individual.
+-   [ ] Judul setiap langkah memiliki pengaturan tipografi sendiri.
+-   [ ] Deskripsi setiap langkah memiliki pengaturan tipografi sendiri.
+-   <span style="color:green">✅</span> Grup Pro Tip
+-   [ ] Judul Pro Tip dapat dipilih dan diatur secara individual.
+-   [ ] Isi Pro Tip dapat dipilih dan diatur secara individual.
 -   <span style="color:green">✅</span> Footer
 
 ### Interaction
@@ -146,8 +146,8 @@ Perubahan hanya dilakukan jika memang diperlukan oleh checklist.
 
 ### Lulus jika
 
--   <span style="color:green">✅</span> Semua element pada daftar dapat dipilih.
--   <span style="color:green">✅</span> Selection tidak merusak layout.
+-   Semua element pada daftar dapat dipilih, termasuk elemen individual yang ditambahkan pada halaman Cooking.
+-   Selection tidak merusak layout.
 
 ------------------------------------------------------------------------
 
