@@ -715,3 +715,18 @@ menunggu persetujuan.**
 - [ ] Mengubah HEX memperbarui color picker; memilih warna melalui picker memperbarui input HEX.
 - [ ] Warna yang dipilih tetap tersimpan pada state/style elemen dan bertahan setelah berpindah pilihan serta undo/redo.
 - [ ] Build produksi dan uji browser untuk seluruh jenis kontrol warna berhasil sebelum checklist ditandai selesai.
+
+
+------------------------------------------------------------------------
+
+## CHECKLIST 21 --- Cover Double Smash (Baseline Terkunci)
+
+Spesifikasi audit, scope, urutan implementasi, kriteria lulus, dan pembagian tugas owner/AI berada pada dokumen khusus berikut:
+
+**[Audit dan Checklist Eksekusi Cover Double Smash](./silit_double_smash_cover_audit_and_execution_checklist.md)**
+
+- [ ] Baseline audit dibaca sebelum mengubah kode.
+- [ ] Checklist dikerjakan sesuai urutan dan requirement dokumen khusus.
+- [ ] Wording, urutan, scope, dan kriteria pada dokumen khusus tidak diubah sepihak. Hanya status checkbox dan bukti pelaksanaan yang boleh diperbarui.
+- [ ] Semua fase AI selesai dan bukti dicatat sebelum handoff deployment kepada owner.
+- [ ] Deployment dan verifikasi production hanya dilakukan owner.
