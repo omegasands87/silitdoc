@@ -620,3 +620,48 @@ Pekerjaan hanya dianggap selesai jika semua item berikut lulus:
 
 **Jika muncul kebutuhan baru di luar checklist, pekerjaan berhenti dan
 menunggu persetujuan.**
+
+
+------------------------------------------------------------------------
+
+## CHECKLIST 18 --- Audit Sinkronisasi Elemen Individual pada Tiga Halaman
+
+**Scope eksplisit user:** seluruh halaman Cover, Isi, dan Langkah Memasak harus dapat memilih elemen visual secara individual dan seluruh kontrol editor yang relevan harus bekerja tanpa merusak halaman lain.
+
+### Cover
+
+- [ ] Foto sampul dapat dipilih, diganti, di-crop, di-zoom, dan diposisikan.
+- [ ] Kategori, judul resep, dan kutipan dapat dipilih serta diatur secara individual.
+- [ ] Label dan nilai Waktu, Kalori, dan Porsi dapat dipilih serta diatur secara individual.
+- [ ] Editor Konten untuk setiap elemen terpilih menampilkan kontrol yang relevan.
+- [ ] Perubahan gaya hanya memengaruhi elemen yang dipilih.
+
+### Isi
+
+- [ ] Judul cerita dan teks cerita dapat dipilih serta diatur secara individual.
+- [ ] Judul Bahan-bahan, jumlah setiap bahan, dan nama setiap bahan dapat dipilih serta diatur secara individual.
+- [ ] Judul Alat Dapur dan setiap item alat dapat dipilih serta diatur secara individual.
+- [ ] Judul Fakta Nutrisi, setiap label nutrisi, setiap nilai nutrisi, dan catatan nutrisi dapat dipilih serta diatur secara individual.
+- [ ] Footer dapat dipilih serta diatur secara individual.
+- [ ] Penambahan/penghapusan bahan atau alat tidak memindahkan gaya ke item yang salah.
+- [ ] Tidak ada layer grup lama yang tampil sebagai layer aktif tetapi tidak memiliki target visual.
+
+### Langkah Memasak
+
+- [ ] Judul halaman memasak dapat dipilih serta diatur secara individual.
+- [ ] Setiap judul langkah dan deskripsi langkah dapat dipilih serta diatur secara individual.
+- [ ] Judul Pro Tip dan isi Pro Tip dapat dipilih serta diatur secara individual.
+- [ ] Footer dapat dipilih serta diatur secara individual.
+- [ ] Penambahan/penghapusan langkah menjaga gaya tetap terhubung ke langkah yang benar.
+
+### Kontrol lintas halaman
+
+- [ ] Panel Konten menampilkan kontrol yang sesuai dengan elemen yang dipilih.
+- [ ] Panel Desain mengubah tipografi, warna, posisi, ukuran, dan properti visual yang tersedia pada target yang benar.
+- [ ] Bounding box mengikuti elemen visual yang terlihat, bukan elemen pengukuran tersembunyi.
+- [ ] Drag, resize, alignment, layer, undo/redo, pergantian halaman, duplikasi, dan export tidak merusak selection atau layout.
+- [ ] Uji manual di browser untuk ketiga halaman selesai.
+- [ ] Build produksi berhasil.
+- [ ] Hasil deploy diverifikasi pada URL aplikasi.
+
+**Aturan status:** semua item di atas tetap belum selesai sampai ada bukti build dan pengujian browser yang sesuai. Commit kode atau pembacaan ulang source saja tidak cukup untuk menandai item lulus.
