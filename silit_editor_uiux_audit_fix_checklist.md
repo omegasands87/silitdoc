@@ -330,8 +330,8 @@ Detail implementasi seperti z-index tidak boleh menjadi informasi visual utama j
 - [ ] UI lebih ringan secara visual tanpa kehilangan fungsi.
 - [ ] Interaction utama dapat ditemukan tanpa context switching yang tidak perlu.
 - [ ] Seluruh regression UI/UX yang termasuk scope telah diverifikasi.
-- [ ] Tidak ada perubahan di luar scope.
-- [ ] Tidak ada deployment yang dilakukan oleh AI.
+- [x] Tidak ada perubahan di luar scope.
+- [x] Tidak ada deployment yang dilakukan oleh AI.
 
 ---
 
