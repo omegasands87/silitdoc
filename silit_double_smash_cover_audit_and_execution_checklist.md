@@ -151,10 +151,10 @@ Tidak boleh menampilkan kontrol seolah-olah berfungsi jika renderer tidak mengap
 
 ### Fase A — Baseline dan validasi kontrak
 
-- [ ] A1. Catat SHA baseline source dan dokumen sebelum edit.
-- [ ] A2. Buat pemeriksaan otomatis untuk keunikan ID kontrak, keunikan `contentKey` teks, keberadaan selector dan geometri, jumlah kemunculan selector tepat satu, serta label Layer untuk semua 28 elemen.
-- [ ] A3. Pastikan setiap `contentKey` memiliki nilai default yang benar dan setiap field editor menunjuk ke key yang sama dengan kontrak.
-- [ ] A4. Pastikan selector teks tetap menunjuk ke leaf node; tandai parent/group/background sebagai non-text.
+- [x] A1. Catat SHA baseline source dan dokumen sebelum edit.
+- [x] A2. Buat pemeriksaan otomatis untuk keunikan ID kontrak, keunikan `contentKey` teks, keberadaan selector dan geometri, jumlah kemunculan selector tepat satu, serta label Layer untuk semua 28 elemen.
+- [x] A3. Pastikan setiap `contentKey` memiliki nilai default yang benar dan setiap field editor menunjuk ke key yang sama dengan kontrak.
+- [x] A4. Pastikan selector teks tetap menunjuk ke leaf node; tandai parent/group/background sebagai non-text.
 - [ ] A5. Perbaiki validasi runtime: kegagalan selector/model harus menghasilkan diagnostic yang dapat ditemukan, tidak boleh diam-diam menghilangkan target dari UI produksi.
 - [ ] A6. Pastikan semua elemen dapat dijangkau lewat Layer; background/shade tetap tidak menangkap klik canvas.
 
