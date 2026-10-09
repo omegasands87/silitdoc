@@ -142,8 +142,8 @@ Semua item dimulai belum dicentang. Centang hanya setelah implementasi dan verif
 
 ### Tahap 5 — Adaptasi HTML Cover menjadi elemen editor
 
-- [ ] Periksa ulang HTML asli dan identifikasi semua bagian visual, aset, font tertanam, CSS, dan efeknya.
-- [ ] Pertahankan aset gambar burger dan font asli; jangan mengganti dengan gambar/font pengganti.
+- [x] Periksa ulang HTML asli dan identifikasi semua bagian visual, aset, font tertanam, CSS, dan efeknya.
+- [x] Pertahankan aset gambar burger dan font asli; jangan mengganti dengan gambar/font pengganti.
 - [ ] Petakan label kategori, judul, subtitle/deskripsi, informasi waktu, informasi persiapan/memasak, kalori, porsi, dan gambar burger ke elemen yang sesuai berdasarkan HTML aktual.
 - [ ] Identifikasi teks dekoratif/shape/garis yang perlu direpresentasikan agar komposisi tetap setia.
 - [ ] Setiap elemen yang dijanjikan dapat diedit mempunyai ID stabil dan dapat dipilih.
