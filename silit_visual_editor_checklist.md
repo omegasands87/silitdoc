@@ -665,3 +665,39 @@ menunggu persetujuan.**
 - [ ] Hasil deploy diverifikasi pada URL aplikasi.
 
 **Aturan status:** semua item di atas tetap belum selesai sampai ada bukti build dan pengujian browser yang sesuai. Commit kode atau pembacaan ulang source saja tidak cukup untuk menandai item lulus.
+
+
+------------------------------------------------------------------------
+
+## CHECKLIST 19 --- Perbaikan UI/UX Sidebar Panel Editor
+
+**Scope:** penyempurnaan visual dan ergonomi panel Konten/Desain untuk Cover, Isi, dan Langkah Memasak. Fungsi edit individual yang sudah ada wajib dipertahankan.
+
+### Daftar berulang
+
+- [ ] Tombol tambah bahan berada pada toolbar daftar bahan dan tetap mudah dijangkau saat daftar panjang.
+- [ ] Tombol tambah alat berada pada toolbar daftar alat dan tetap mudah dijangkau saat daftar panjang.
+- [ ] Tombol tambah langkah berada pada toolbar daftar langkah, bukan hanya di bawah seluruh daftar.
+- [ ] Bahan ditampilkan sebagai satu item terstruktur; jumlah, nama, dan aksi hapus sejajar serta mudah dibedakan.
+- [ ] Setiap alat memiliki aksi hapus yang konsisten dan sejajar dengan field alat.
+- [ ] Setiap langkah memiliki aksi hapus yang konsisten dan berada pada header item langkah.
+- [ ] Daftar panjang memiliki area scroll internal sehingga kontrol tambah tidak terdorong jauh dari area kerja.
+- [ ] Penghapusan menggunakan ikon, ukuran target klik, hover/focus, dan label aksesibilitas yang konsisten.
+
+### Konsistensi panel
+
+- [ ] Hierarki judul grup, label, field, item, dan aksi konsisten pada Cover, Isi, dan Langkah Memasak.
+- [ ] Jarak, border, radius, warna, dan ukuran kontrol konsisten antara tab Konten dan Desain.
+- [ ] Tampilan tetap layak pada tinggi viewport rendah dan lebar sidebar yang lebih sempit.
+- [ ] Scroll daftar tidak mengganggu scroll panel utama atau canvas.
+- [ ] Tambah/hapus item tetap bekerja, termasuk ketika item yang dihapus memiliki gaya individual.
+- [ ] Edit individual, pemetaan gaya, layer, undo/redo, dan export tidak mengalami regresi.
+
+### Verifikasi wajib
+
+- [ ] Build produksi berhasil.
+- [ ] Pengujian browser untuk Cover, Isi, dan Langkah Memasak selesai.
+- [ ] Uji daftar pendek dan panjang, tombol tambah/hapus, focus/hover, serta scroll internal selesai.
+- [ ] Deploy terbaru diperiksa langsung setelah perubahan tersedia.
+
+**Aturan status:** commit kode atau pemeriksaan source tidak cukup untuk menandai item sebagai selesai. Checklist hanya dapat diperbarui setelah bukti build dan pengujian sesuai tersedia.
