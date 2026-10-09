@@ -91,13 +91,13 @@ Semua item dimulai belum dicentang. Centang hanya setelah implementasi dan verif
 
 ### Tahap 1 — Kontrak template dan elemen
 
-- [ ] Tetapkan representasi data template yang dapat memiliki jumlah dan tipe elemen berbeda.
-- [ ] Setiap elemen mempunyai ID stabil yang tidak bergantung pada posisi array.
-- [ ] Definisikan tipe elemen yang diperlukan oleh sumber template awal: teks, gambar, dan elemen dekoratif/shape bila memang ditemukan pada HTML.
-- [ ] Definisikan data awal, posisi, ukuran, layer, tipografi, warna, alignment, dan properti visual yang dibutuhkan.
-- [ ] Tentukan properti mana yang dapat diedit melalui KONTEN dan mana melalui DESAIN.
-- [ ] Tentukan bagaimana template default dibuat menjadi data halaman baru yang independen.
-- [ ] Pastikan definisi template tidak memodifikasi data halaman lain.
+- [x] Tetapkan representasi data template yang dapat memiliki jumlah dan tipe elemen berbeda.
+- [x] Setiap elemen mempunyai ID stabil yang tidak bergantung pada posisi array.
+- [x] Definisikan tipe elemen yang diperlukan oleh sumber template awal: teks, gambar, dan elemen dekoratif/shape bila memang ditemukan pada HTML.
+- [x] Definisikan data awal, posisi, ukuran, layer, tipografi, warna, alignment, dan properti visual yang dibutuhkan.
+- [x] Tentukan properti mana yang dapat diedit melalui KONTEN dan mana melalui DESAIN.
+- [x] Tentukan bagaimana template default dibuat menjadi data halaman baru yang independen.
+- [x] Pastikan definisi template tidak memodifikasi data halaman lain.
 
 **Lulus jika:** kontrak mendukung komposisi template berbeda tanpa kondisi khusus yang mengunci editor pada struktur Classic.
 
