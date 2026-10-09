@@ -701,3 +701,17 @@ menunggu persetujuan.**
 - [ ] Deploy terbaru diperiksa langsung setelah perubahan tersedia.
 
 **Aturan status:** commit kode atau pemeriksaan source tidak cukup untuk menandai item sebagai selesai. Checklist hanya dapat diperbarui setelah bukti build dan pengujian sesuai tersedia.
+
+
+------------------------------------------------------------------------
+
+## CHECKLIST 20 --- Input Warna HEX
+
+- [ ] Kontrol warna teks menyediakan color picker dan input HEX manual.
+- [ ] Kontrol warna latar elemen teks menyediakan color picker dan input HEX manual.
+- [ ] Kontrol warna dekorasi/shape menyediakan color picker dan input HEX manual.
+- [ ] Kontrol background halaman menyediakan color picker dan input HEX manual.
+- [ ] Input menerima format enam digit `#RRGGBB`, tidak menerapkan nilai parsial/tidak valid ke desain, dan memulihkan nilai sebelumnya jika input tidak valid saat blur.
+- [ ] Mengubah HEX memperbarui color picker; memilih warna melalui picker memperbarui input HEX.
+- [ ] Warna yang dipilih tetap tersimpan pada state/style elemen dan bertahan setelah berpindah pilihan serta undo/redo.
+- [ ] Build produksi dan uji browser untuk seluruh jenis kontrol warna berhasil sebelum checklist ditandai selesai.
