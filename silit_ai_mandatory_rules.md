@@ -42,6 +42,13 @@
 7. Hanya update centang checklist untuk pekerjaan yang telah selesai dan diverifikasi.
 8. Jangan mengubah wording, urutan, nomor, atau requirement checklist selain bagian yang secara eksplisit perlu disinkronkan dengan instruksi user.
 
+## Dokumentasi yang Dikunci
+
+1. Dokumentasi yang dikunci tidak boleh diubah secara sepihak.
+2. Jika user secara eksplisit meminta sinkronisasi/perubahan dokumentasi, instruksi user tersebut mengizinkan perubahan terbatas pada bagian yang terdampak.
+3. Jangan mengubah bagian dokumentasi lain yang tidak terkait dengan instruksi user.
+4. Checklist hanya boleh ditandai selesai setelah pekerjaan benar-benar selesai dan diverifikasi.
+
 ## Riset dan Referensi
 
 1. Research sebelum coding jika pekerjaan membutuhkan reference work.
