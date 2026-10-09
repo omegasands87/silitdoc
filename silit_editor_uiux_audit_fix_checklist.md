@@ -308,15 +308,15 @@ Detail implementasi seperti z-index tidak boleh menjadi informasi visual utama j
 
 ## K. Scope Control
 
-- [ ] Hanya area UI/UX editor yang termasuk dokumentasi ini yang diubah.
-- [ ] Tidak mengubah toolbar/canvas/export/fitur lain yang tidak diperlukan oleh audit ini.
-- [ ] Tidak menambah fitur di luar kebutuhan audit.
-- [ ] Tidak mengubah checklist lama kecuali update centang pekerjaan yang memang telah diverifikasi.
-- [ ] Tidak mengubah isi dokumentasi ini.
-- [ ] Tidak membuat branch baru.
-- [ ] Semua perubahan kode langsung ke `main`.
-- [ ] Tidak melakukan deployment.
-- [ ] Tidak mengklaim pekerjaan selesai tanpa verifikasi.
+- [x] Hanya area UI/UX editor yang termasuk dokumentasi ini yang diubah.
+- [x] Tidak mengubah toolbar/canvas/export/fitur lain yang tidak diperlukan oleh audit ini.
+- [x] Tidak menambah fitur di luar kebutuhan audit.
+- [x] Tidak mengubah checklist lama kecuali update centang pekerjaan yang memang telah diverifikasi.
+- [x] Tidak mengubah isi dokumentasi ini.
+- [x] Tidak membuat branch baru.
+- [x] Semua perubahan kode langsung ke `main`.
+- [x] Tidak melakukan deployment.
+- [x] Tidak mengklaim pekerjaan selesai tanpa verifikasi.
 
 ## L. Acceptance Criteria
 
