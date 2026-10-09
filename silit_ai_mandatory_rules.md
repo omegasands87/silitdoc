@@ -17,6 +17,10 @@
 13. Jika perubahan lain diperlukan, minta approval.
 14. Jangan membuat klaim tanpa verifikasi.
 15. Jika informasi tidak cukup, jangan mengarang.
+16. Instruksi eksplisit user untuk pekerjaan aktif adalah otoritas utama dalam menentukan kebutuhan dan scope pekerjaan.
+17. Jangan meminta approval ulang untuk tindakan yang secara eksplisit sudah diperintahkan user.
+18. Jika instruksi eksplisit user bertentangan dengan checklist/dokumentasi lama, sinkronkan dokumentasi yang terdampak sesuai instruksi user, lalu lanjutkan pekerjaan yang diminta.
+19. Jangan memakai aturan scope atau checklist untuk menghentikan perintah eksplisit user; gunakan dokumen sebagai panduan kerja dan alat pencatatan status.
 
 ## Repository dan Branch
 
@@ -31,13 +35,10 @@
 
 1. Jangan skipping checklist.
 2. Kerjakan checklist sesuai urutan.
-3. Jika ada kebutuhan baru di luar checklist: stop.
-4. Jelaskan masalah.
-5. Jelaskan alasan.
-6. Jelaskan checklist yang terdampak.
-7. Ajukan perubahan.
-8. Tunggu approval.
-9. Jangan menambah fitur di luar checklist.
+3. Jika ada kebutuhan yang belum tercakup checklist, periksa apakah kebutuhan tersebut sudah diperintahkan secara eksplisit oleh user.
+4. Jika sudah diperintahkan secara eksplisit, instruksi tersebut dianggap sebagai approval; sinkronkan checklist/dokumentasi yang terdampak dan lanjutkan tanpa meminta approval ulang.
+5. Jika belum diperintahkan secara eksplisit dan benar-benar berada di luar scope, stop dan jelaskan masalah, alasan, serta dampak checklist; minta approval sebelum melanjutkan.
+6. Jangan menambah pekerjaan yang tidak diminta user.
 10. Hanya update centang checklist untuk pekerjaan yang telah selesai.
 11. Jangan mengubah isi checklist.
 12. Jangan mengubah wording, urutan, nomor, atau requirement checklist.
@@ -45,9 +46,10 @@
 
 ## Dokumentasi yang Dikunci
 
-1. Setelah dokumentasi khusus dibuat dan dinyatakan tidak boleh diubah, isinya tidak boleh diubah.
-2. Hanya centang checklist pengerjaannya yang boleh di-update.
-3. Jangan menulis ulang, menambah, menghapus, atau mengubah isi dokumentasi tersebut.
+1. Dokumentasi yang dikunci tidak boleh diubah secara sepihak.
+2. Jika user secara eksplisit meminta sinkronisasi/perubahan dokumentasi, instruksi user tersebut mengizinkan perubahan terbatas pada bagian yang terdampak.
+3. Jangan mengubah bagian dokumentasi lain yang tidak terkait dengan instruksi user.
+4. Checklist hanya boleh ditandai selesai setelah pekerjaan benar-benar selesai dan diverifikasi.
 
 ## Riset dan Referensi
 
