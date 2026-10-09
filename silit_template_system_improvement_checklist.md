@@ -80,12 +80,12 @@ Semua item dimulai belum dicentang. Centang hanya setelah implementasi dan verif
 
 ### Tahap 0 — Baseline dan pemeriksaan scope
 
-- [ ] Baca ulang semua dokumen wajib yang masih berlaku.
-- [ ] Periksa ulang branch `main` dan source code terbaru; jangan mengandalkan line number atau ringkasan lama.
-- [ ] Catat kondisi awal Add Page, Duplicate Page, Delete Page, Move Page, selection, editor Classic, undo/redo, dan export.
-- [ ] Periksa implementasi HTML Cover yang sudah ada dan identifikasi bagian yang hanya visual statis/iframe.
-- [ ] Pastikan tidak ada perubahan tak terkait yang akan ikut dikerjakan.
-- [ ] Pastikan urutan checklist utama tetap dipatuhi.
+- [x] Baca ulang semua dokumen wajib yang masih berlaku.
+- [x] Periksa ulang branch `main` dan source code terbaru; jangan mengandalkan line number atau ringkasan lama.
+- [x] Catat kondisi awal Add Page, Duplicate Page, Delete Page, Move Page, selection, editor Classic, undo/redo, dan export.
+- [x] Periksa implementasi HTML Cover yang sudah ada dan identifikasi bagian yang hanya visual statis/iframe.
+- [x] Pastikan tidak ada perubahan tak terkait yang akan ikut dikerjakan.
+- [x] Pastikan urutan checklist utama tetap dipatuhi.
 
 **Lulus jika:** baseline ditulis berdasarkan source/runtime yang benar-benar diperiksa, risiko dan batas pengujian jelas, serta tidak ada scope creep.
 
