@@ -133,7 +133,7 @@ Semua item dimulai belum dicentang. Centang hanya setelah implementasi dan verif
 - [ ] Pastikan seluruh komponen Classic yang saat ini dapat diedit tetap dapat diedit.
 - [ ] Selection dan panel KONTEN bekerja untuk elemen Classic.
 - [ ] Panel DESAIN tetap mengubah elemen Classic yang dipilih.
-- [ ] Layer, drag, resize, alignment, guides/snap, multi-select, dan keyboard shortcut tidak mengalami regresi.
+- [x] Layer, drag, resize, alignment, guides/snap, multi-select, dan keyboard shortcut tidak mengalami regresi.
 - [ ] Upload/ganti gambar tetap bekerja.
 - [ ] Undo/redo tetap bekerja untuk operasi yang didukung.
 - [ ] Export dan print template Classic tetap sesuai checklist utama.
